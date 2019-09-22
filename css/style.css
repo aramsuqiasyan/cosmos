@@ -36,7 +36,10 @@ body.over{
 .wrapper{
 	min-height: 2000px;
 	min-width: 320px;
+}
 
+.wrapper.open{
+	overflow: hidden;
 }
 
 header{
