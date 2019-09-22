@@ -39,9 +39,6 @@ body.over{
 	min-width: 320px;
 }
 
-.wrapper.over{
-	overflow: hidden;
-}
 
 header{
 	background-image: url(../images/bg.jpg);
