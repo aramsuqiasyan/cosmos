@@ -38,7 +38,7 @@ body.over{
 	min-width: 320px;
 }
 
-.wrapper.open{
+.wrapper.over{
 	overflow: hidden;
 }
 
