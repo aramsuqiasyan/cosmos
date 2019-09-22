@@ -13,6 +13,7 @@
 	transition: .3s all;
 }
 .menubtn:hover{
+	cursor: pointer;
 	background: #ac34ff;
 	color: #fff;
 }
@@ -29,7 +30,9 @@ a{
 body{
 	font-family: 'Open Sans', sans-serif;
 }
-
+body.over{
+	overflow: hidden;
+}
 .wrapper{
 	min-height: 2000px;
 	min-width: 320px;
