@@ -1,3 +1,23 @@
+.menubtn{
+	position: fixed;
+	right: 15px;
+	top: 15px;
+	font-size: 30px;
+	background: #8824cd;
+	border: none;
+	padding: 10px 15px;
+	border-radius: 5px;
+	outline: none;
+	display: none;
+	z-index: 1;
+	transition: .3s all;
+}
+.menubtn:hover{
+	background: #ac34ff;
+	color: #fff;
+}
+
+
 *{
 	margin: 0;
 	padding: 0;
